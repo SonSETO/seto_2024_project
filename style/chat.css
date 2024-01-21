@@ -173,7 +173,7 @@
 .reply input {
   padding: 12px;
   width: 100%;
-  border: var(--underline-border);
+  border: 5px;
   border-radius: 20px;
   box-sizing: border-box;
   transition: all 0.3s ease-in-out;

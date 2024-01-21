@@ -11,7 +11,7 @@
 }
 
 .find_shop_img {
-  background-image: url(img/applem3pro.jpeg);
+  background-image: url(../img/applem3pro.jpeg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -32,7 +32,7 @@
 }
 
 .find_shop_content .find_shop_img:nth-child(2) {
-  background-image: url(img/에어비엔비.jpeg);
+  background-image: url(../img/airbnb.jpeg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -46,7 +46,7 @@
   color: white;
 }
 .find_shop_content .find_shop_img:nth-child(3) {
-  background-image: url(img/노마드수강.jpeg);
+  background-image: url(../img/nonadschool.jpeg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -135,7 +135,7 @@
 }
 
 .find_shop_subimg {
-  background-image: url(img/술술술.webp);
+  background-image: url(../img/soju.webp);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -150,7 +150,7 @@
   color: white;
 }
 .find_shop_subimg:nth-child(2) {
-  background-image: url(img/비행기비행기.jpeg);
+  background-image: url(../img/airair.jpeg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -166,7 +166,7 @@
 }
 
 .find_shop_subimg_sub {
-  background-image: url(img/고기고기.webp);
+  background-image: url(../img/gogi.webp);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -181,7 +181,7 @@
   color: white;
 }
 .find_shop_subimg_sub:nth-child(2) {
-  background-image: url(img/떡떡떡.jpeg);
+  background-image: url(../img/EjrEJrEJr.jpeg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
