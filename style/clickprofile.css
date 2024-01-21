@@ -1,0 +1,57 @@
+.clickprofile_container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 700px;
+}
+
+.clickprofile_content {
+  text-align: center;
+}
+
+.clickprofile_img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+.clickprofile_img img {
+  width: 100%;
+  border-radius: 33%;
+}
+
+.clickprofile_text {
+  margin-top: 20px;
+  font-size: 20px;
+}
+
+.clickprofile_subtext {
+  font-size: 15px;
+  margin-top: 20px;
+  color: gray;
+}
+
+.clickprofile_text i {
+  font-size: 12px;
+}
+
+.clickprofile_bottom {
+  margin-top: 40px;
+  justify-content: center;
+}
+.clickprofile_bottom_content {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  text-align: center;
+}
+
+.clickprofile_bottom_content i {
+  font-size: 50px;
+}
+
+.clickprofile_bottom_content_text {
+  margin-top: 20px;
+  font-size: 30px;
+}

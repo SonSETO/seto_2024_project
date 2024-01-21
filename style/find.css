@@ -1,0 +1,197 @@
+.find_shop_container {
+  margin: 10px;
+  display: flex;
+  width: 100%;
+  height: 100%;
+}
+
+.find_shop_content {
+  display: flex;
+  gap: 10px;
+}
+
+.find_shop_img {
+  background-image: url(../img/applem3pro.jpeg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  width: 250px;
+  height: 200px;
+  border: 1px solid none;
+  display: flex;
+  justify-content: center;
+  align-items: end;
+  text-align: center;
+
+  color: white;
+}
+
+.find_shop_img img {
+  width: 100%;
+  height: 100%;
+}
+
+.find_shop_content .find_shop_img:nth-child(2) {
+  background-image: url(../img/에어비엔비.jpeg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  width: 250px;
+  height: 200px;
+  border: 1px solid none;
+  display: flex;
+  justify-content: center;
+  align-items: end;
+  text-align: center;
+  color: white;
+}
+.find_shop_content .find_shop_img:nth-child(3) {
+  background-image: url(../img/노마드수강.jpeg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  width: 250px;
+  height: 200px;
+  border: 1px solid none;
+  display: flex;
+  justify-content: center;
+  align-items: end;
+  text-align: center;
+  color: black;
+}
+
+.find_shop_cotent_box {
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.find_shop_content_profile {
+  margin-top: 15px;
+}
+.find_shop_content_img img {
+  width: 60px;
+  height: 60px;
+  border-radius: 33%;
+}
+.find_shop_content_text {
+  margin-top: 5px;
+  font-size: 15px;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: gray;
+}
+
+.find_shop_content_content:hover {
+  transform: scale(1.4);
+}
+
+.find_shop_search {
+  padding: 10px;
+  width: 400px;
+  height: 20px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  text-align: center;
+  border: 1px solid gray;
+  background-color: gray;
+  border-radius: 20px;
+  margin-left: 80px;
+  margin-top: 20px;
+  opacity: 0.5;
+}
+.find_shop_search_icon,
+.find_shop_search_text {
+  margin-left: 20px;
+}
+
+.find_shop_search_text input {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  background-color: transparent;
+  border: none;
+  outline: none;
+}
+
+.find_shop_search_text input::placeholder {
+  color: black;
+}
+.find_shop_subcontent_sub,
+.find_shop_subcontainer {
+  margin: 10px;
+  display: flex;
+  width: 100%;
+  height: 100%;
+  margin-left: 18px;
+}
+
+.find_shop_subcontent_sub,
+.find_shop_subcontent {
+  display: flex;
+  gap: 40px;
+}
+
+.find_shop_subimg {
+  background-image: url(../img/술술술.webp);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  width: 250px;
+  height: 200px;
+  border: 1px solid none;
+  display: flex;
+  justify-content: center;
+  align-items: end;
+  text-align: center;
+
+  color: white;
+}
+.find_shop_subimg:nth-child(2) {
+  background-image: url(../img/비행기비행기.jpeg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  width: 250px;
+  height: 200px;
+  border: 1px solid none;
+  display: flex;
+  justify-content: center;
+  align-items: end;
+  text-align: center;
+
+  color: black;
+}
+
+.find_shop_subimg_sub {
+  background-image: url(../img/고기고기.webp);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  width: 250px;
+  height: 200px;
+  border: 1px solid none;
+  display: flex;
+  justify-content: center;
+  align-items: end;
+  text-align: center;
+
+  color: white;
+}
+.find_shop_subimg_sub:nth-child(2) {
+  background-image: url(../img/떡떡떡.jpeg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  width: 250px;
+  height: 200px;
+  border: 1px solid none;
+  display: flex;
+  justify-content: center;
+  align-items: end;
+  text-align: center;
+
+  color: white;
+}

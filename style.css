@@ -1,0 +1,47 @@
+@import "./reset.css";
+
+/* Main CSS */
+@import "./style/friend.css";
+@import "./style/chats.css";
+@import "./style/login.css";
+@import "./style/chat.css";
+@import "./style/find.css";
+@import "./style/more.css";
+
+/* clickprofile */
+@import "./style/clickprofile.css";
+
+/* Mobile */
+
+@import "./style/no-mobile.css";
+
+/* Nav CSS */
+@import "./style/bottomnav.css";
+@import ".//style/topnav.css";
+
+body {
+  height: 500px;
+}
+
+.body_color {
+  background-color: #333d51;
+}
+
+.boundary_line {
+  border: 1px solid gray;
+  margin: 0 10px;
+  margin-bottom: 5px;
+  margin-top: 5px;
+}
+
+.badge {
+  background-color: tomato;
+  height: 30px;
+  width: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 15px;
+  color: white;
+  font-weight: 600;
+}
