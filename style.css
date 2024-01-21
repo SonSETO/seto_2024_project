@@ -19,10 +19,6 @@
 @import "./style/bottomnav.css";
 @import ".//style/topnav.css";
 
-body {
-  height: 500px;
-}
-
 .body_color {
   background-color: #333d51;
 }
